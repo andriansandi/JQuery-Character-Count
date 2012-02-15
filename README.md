@@ -1,6 +1,8 @@
 jQuery Character Count - jQuery plugin for counting character 
 ==============
 
+jQuery plugin for counting character on input and textareas. Work with the lastest jQuery version.
+
 
 ## Install
 Download jquery.charcount.js and add below jquery.js
